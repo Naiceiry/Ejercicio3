@@ -14,3 +14,15 @@ _______________________________________________
 #regresar a commits anteriores o poesteriores
 ______________________________________________
 git reset id commit --hard
+
+______________________________________________
+
+#actualizar del remoto al local 
+______________________________________________
+git pull rama
+
+
+___________________________________
+#clonar repositorio remoto a local
+___________________________________
+git clone https://github.com/Naiceiry/Ejercicio3.git
