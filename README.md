@@ -14,3 +14,9 @@ _______________________________________________
 #regresar a commits anteriores o poesteriores
 ______________________________________________
 git reset id commit --hard
+
+______________________________________________
+
+#actualizar del remoto al local 
+______________________________________________
+git pull rama
